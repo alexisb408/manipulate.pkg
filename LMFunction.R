@@ -1,0 +1,1 @@
+For this function, I will do an LM showing if weight is predicted by sex.
